@@ -1,4 +1,4 @@
-# ESP32 BLE server demo with iOS App
+# Arduino ESP32 BLE server demo with iOS App
 
 This demo starts a BLE server on your ESP32 and uses an iOS App to send messages to it. The ESP will print the received messages to the serial console.
 
